@@ -25,7 +25,7 @@ A localização **não** é usada para publicidade, perfilamento, rastreamento, 
 
 A extensão pode obter sua localização de duas formas:
 
-1. **GPS / localização do navegador (com sua permissão).** Ao clicar no botão de localização (GPS) do widget de clima, o navegador pede a sua autorização. Se você negar, nada é obtido e você pode simplesmente digitar o nome de uma cidade.
+1. **GPS / localização do navegador (com sua permissão).** Ao clicar no botão de localização (GPS) do widget de clima, é normal que o navegador pesa a sua autorização. Se você negar, nada é obtido e você pode simplesmente digitar o nome de uma cidade.
 2. **Localização aproximada (cidade).** Se você ainda não escolheu um local, a extensão faz uma consulta ao serviço BigDataCloud, que estima a sua cidade de forma aproximada a partir do endereço IP da sua conexão, sem usar o GPS.
 3. **Cidade digitada por você.** Você pode digitar o nome de uma cidade; nesse caso, uma extensão não precisa de sua localização.
 
