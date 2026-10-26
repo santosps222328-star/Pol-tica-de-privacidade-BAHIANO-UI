@@ -79,11 +79,4 @@ A extensão não é direcionada a crianças e não coleta intencionalmente dados
 
 Esta política pode ser atualizada. Os dados da última atualização estarão sempre no topo deste documento.
 
-## 11. Contato
-
-Dúvidas sobre esta política:
-
-- Desenvolvedor: **BAHIANO**
-- E-mail: **santos.ps222328@gmail.com**
-
 ---
