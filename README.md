@@ -6,7 +6,7 @@
 *English version below · Versão em inglês mais abaixo.*
 
 ---
-
+#Sistema de Localização da extensão
 ## 1. Resumo
 
 - A extensão **BAHIANO UI >_â™¡** usa sua **localização** apenas para mostrar o **clima** de sua região na tela inicial.
