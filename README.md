@@ -1,4 +1,4 @@
-# Pol-tica-de-privacidade-BAHIANO-UI
+# Politica-de-privacidade-BAHIANO-UI
 
 **Versão da extensão:** 1.8.1  
 **Última atualização:** 23 de outubro de 2026
