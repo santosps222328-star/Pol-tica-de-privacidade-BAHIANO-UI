@@ -189,8 +189,6 @@ Se a extensão passar a usar novos serviços ou novos tipos de dados, esta polí
 
 ## 12. Contato
 
-Dúvidas sobre privacidade: **[SEU E-MAIL DE CONTATO]**
-
 Repositório desta política: <https://github.com/santosps222328-star/Pol-tica-de-privacidade-BAHIANO-UI>
 
 ---
