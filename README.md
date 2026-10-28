@@ -1,7 +1,9 @@
 # Politica-de-privacidade-BAHIANO-UI
 
-**Versão da extensão:** 1.8.1  
+**Versão da extensão é mostrada na Google web store**
 **Última atualização:** 23 de outubro de 2026
+
+Esta política pode ser atualizada. Os dados da última atualização estarão sempre no topo deste documento.
 
 *English version below · Versão em inglês mais abaixo.*
 
@@ -76,7 +78,5 @@ Alguns recursos são conectados a serviços de terceiros apenas quando usados �
 A extensão não é direcionada a crianças e não coleta intencionalmente dados pessoais de menores.
 
 ## 10. Alterações nesta política
-
-Esta política pode ser atualizada. Os dados da última atualização estarão sempre no topo deste documento.
 
 ---
