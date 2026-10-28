@@ -39,7 +39,7 @@
 
 A extensão só trabalha com os dados abaixo, e apenas para o funcionamento dos recursos que você escolhe usar:
 
-- **Localização** (aproximada ou GPS), somente se você permitir e clicar no botão de localização do widget de clima.
+- **Localização** (aproximada ou GPS), somente se você clicar no botão de localização do widget de clima.
 - **Texto digitado** nos campos de pesquisa, tradutor, QR Code e cidade do clima.
 - **Preferências e configurações** (tema, atalhos, idioma, notas, tarefas, plano de fundo etc.).
 - **Imagens de plano de fundo** que você escolher (ficam no seu navegador).
